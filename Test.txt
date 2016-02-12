@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Test update from branch
 Update from master
-=======
 Test update from branch
->>>>>>> origin/master
+
