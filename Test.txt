@@ -3,3 +3,4 @@ Update from master
 Another update
 Test update from branch
 branch update 3
+update from master
